@@ -1,0 +1,5 @@
+<body background="0.jpg">
+<a name=photo1>
+
+<font face="¼Ð·¢Åé"><h2>»e¿}ªi³ö</h2></font>
+<img src="1.jpg"align=left>

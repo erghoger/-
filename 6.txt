@@ -1,0 +1,4 @@
+<body background="0.jpg">
+<a name=photo2>
+<font face="標楷體"><h2>天使法蘭奇</h2></font>
+<img src="3.jpg"align=left>

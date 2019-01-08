@@ -1,0 +1,4 @@
+<body background="0.jpg">
+<a name=photo2>
+<font face="標楷體"><h2>巧克力歐菲香</h2></font>
+<img src="2.jpg"align=left>
